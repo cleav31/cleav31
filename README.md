@@ -55,7 +55,7 @@ I am a forward thinking problem solver with a passion for uncovering insights hi
 
 ---
 
-### 🗃️ [Sales-Projection](https://github.com/cleav31/Sales-Projection)
+### 🗃️ [Sales-Forecasting](https://github.com/cleav31/Sales-Forecasting)
 > **Tools:** SQL · Python · Jupyter · Power BI · 
 > In progress...
 
