@@ -15,7 +15,7 @@
 I am a forward thinking problem solver with a passion for uncovering insights hidden in data. My background in operations gives me a strong foundation in critical thinking and communication. I have combined that experience with a growing data analytics toolkit to tell compelling, data-driven stories.
 
 - Currently focused on building real-world projects solving common business problems
-- Passionate about making complex data into acionable insights
+- Passionate about making complex data into actionable insights
 - Seeking my first Analyst role where I can add immediate value
 - Currently strengthening my skills in forecasting and data presentation
 
