@@ -4,7 +4,7 @@
 ### Aspiring Analyst | Turning Raw Data into Clear Decisions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/curtis-leavitt-11abb7110)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leavitt.curtis@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:curtis.l.leavitt@outlook.com)
 
 </div>
 
@@ -31,6 +31,7 @@ I am a forward thinking problem solver with a passion for uncovering insights hi
 **Visualization & Reporting**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-0176D3?style=for-the-badge&logo=tableau&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 **Libraries & Frameworks**
@@ -56,8 +57,9 @@ I am a forward thinking problem solver with a passion for uncovering insights hi
 ---
 
 ### 🗃️ [Sales-Forecasting](https://github.com/cleav31/Sales-Forecasting)
-> **Tools:** SQL · Python · Jupyter · Power BI · 
-> In progress...
+> **Tools:** Tableau 
+> Sales Performance & Predictive Analytics Dashboard:
+> Deployed an executive-grade Tableau dashboard that transforms raw transaction data into proactive market forecasts using an Exponential Smoothing (ETS) model. Featuring custom metric engineering (AOV) and seamless cross-filtering, this corporate-ready tool bridges historical performance with 95% confidence interval trend projections to optimize executive resource allocation.
 
 ---
 
