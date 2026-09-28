@@ -55,10 +55,8 @@ I am a forward thinking problem solver with a passion for uncovering insights hi
 > Analyzed and presented operational data. The data included customer, supplier, warehouse and sales information. Insights were presented showing that 6 warehouses had a lower than avergage On Time Rate and over a 10 day delivery delay average. It was also found that some suppliers had a defect rate more than 14% although the average was 3.95%.
 
 ---
-
 ### 🗃️ [Sales-Forecasting](https://github.com/cleav31/Sales-Forecasting)
-> **Tools:** Tableau 
-> Sales Performance & Predictive Analytics Dashboard:
+> **Tools:** Tableau ·  
 > Deployed an executive-grade Tableau dashboard that transforms raw transaction data into proactive market forecasts using an Exponential Smoothing (ETS) model. Featuring custom metric engineering (AOV) and seamless cross-filtering, this corporate-ready tool bridges historical performance with 95% confidence interval trend projections to optimize executive resource allocation.
 
 ---
